@@ -1,4 +1,4 @@
-body {
+/* body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     display: flex;
@@ -53,4 +53,8 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+ */
 
+
+ img{width: 150px; padding: 5px 550px;}
+ 
