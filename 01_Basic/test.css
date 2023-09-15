@@ -63,15 +63,17 @@ button:hover {
 /* ------------------- */
 
 table {
-    color: #fff;
-    width: 100%;
+    color: orangered;
+    width: 40%;
     text-align: center;
     border-collapse: collapse;
 }
 th, td {
-    border: 1px solid black;
+    border: 1px solid navy;
     padding: 10px;
+    
 }
 tr:nth-child(even){
     background-color: #b9b9b9;
+    
 }
