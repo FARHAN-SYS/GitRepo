@@ -8,22 +8,28 @@
     
 </head>
 <body>
+    
     <button class="bag_button" onclick="cartQuantity++;
-    document.querySelector('#cart-summary').innerText = `Your bag has ${cartQuantity} Items`;">Add to Bag</button>
+        document.querySelector('#cart-summary').innerText = 
+        `Your bag has ${cartQuantity} Items`;">Add to Bag
+    </button>
     
     <button class="wish-button" onclick="cartQuantity--;
-    document.querySelector('#cart-summary').innerText = `Your bag has ${cartQuantity} Items`;">Move to Wishlist</button>
+        document.querySelector('#cart-summary').innerText = 
+        `Your bag has ${cartQuantity} Items`;">Move to Wishlist
+    </button>
     
     <button class="bag_button" onclick="cartQuantity += 2;
-    document.querySelector('#cart-summary').innerText = `Your bag has ${cartQuantity} Items`;">Add 1+1 Sale Item</button>
+        document.querySelector('#cart-summary').innerText = 
+        `Your bag has ${cartQuantity} Items`;">Add 1+1 Sale Item
+    </button>
+    
     <h1 id="cart-summary"></h1>
     
     <script>
-    let cartQuantity = 0;
-        document.querySelector(
-          "#cart-summary"
-        ).innerText = `Your bag has ${cartQuantity} Items`;
-        </script>
+        let cartQuantity = 0;
+        document.querySelector("#cart-summary").innerText = `Your bag has ${cartQuantity} Items`;
+    </script>
     <!-- <script src="Web_basic.js"></script> -->
 </body>
 </html>
