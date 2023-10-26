@@ -1,11 +1,4 @@
-.mycls{
-  color: darkblue;
-}
-.mycls2{
-color: red;
-text-align: center;
-}
-#myid{
-  color: gainsboro;
-
-}
+#login{font-size: 2em;}
+.mycls{color: darkblue;}
+.mycls2{color: red;text-align: center;}
+#myid{color: gainsboro;}
