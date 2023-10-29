@@ -6,19 +6,18 @@
   <link rel="stylesheet" href="login_Form.css">
 </head>
 <body>
-  <div class="login">
-    <h2>SIGNIN</h2>
-    <form id="loginForm">
-      <label for="username">User Name</label><br>
-      <input type="text" placeholder="User Name"><br><br>
-      <label for="password">Password</label><br>
-      <input type="text" placeholder="Password"><br><br>
-      
-    <button>Subcribe</button>
-    </form>  
-  <!-- <P class="mycls">Class Div Container Tutorial</P>
-  <P class="mycls2">Learning to Class</P>
-  <P id="myid">Learning to ID</P> -->
-</div>
+  
+  <div class="cls">
+    <h2>Sign In</h2>
+    <form id="loginFrom">
+        <label for="username">User Name</label><br>
+        <input type="text" id="username" name="username" required><br><br>
+        <label for="password">Password</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+        <input type="submit" value="Login" id="loginButton">
+      </form>  
+    </div>
+ 
+    <script src="login_Form.js"></script>
 </body>
 </html>

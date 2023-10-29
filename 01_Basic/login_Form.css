@@ -1,13 +1,35 @@
-.login {
+body {
+  text-align: center;
+ }
+
+.cls {
+  border-width: 5px;
+  border-style: solid;
+  border-color: green;
+  margin: 150px auto;
+  width: 200px;
+  padding: 20px;
+}
+
+.cls label {
+   margin-right: 50%;
+}
+
+
+/* #login {
   font-size: 1em;
   text-align: center;
   border-width: 5px;
   border-style: solid;
   border-color: green;
   margin: 150px auto 0px auto;
-  width: 300px;
+  width: 250px;
 }
 
-.login button {
-  margin: 20px;
+.cls button {
+  margin: 10px;
 }
+
+.cls label {
+  align-items:start;
+} */
