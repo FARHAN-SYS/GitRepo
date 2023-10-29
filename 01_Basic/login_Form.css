@@ -1,7 +1,13 @@
-#login{
+.login {
   font-size: 1em;
   text-align: center;
+  border-width: 5px;
+  border-style: solid;
+  border-color: green;
+  margin: 150px auto 0px auto;
+  width: 300px;
 }
-.mycls{color: darkblue;}
-.mycls2{color: red;text-align: center;}
-#myid{color: gainsboro;}
+
+.login button {
+  margin: 20px;
+}
