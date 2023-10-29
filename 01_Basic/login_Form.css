@@ -8,12 +8,18 @@ body {
   border-color: green;
   margin: 150px auto;
   width: 200px;
-  padding: 20px;
+  padding: 0px 25px 20px 20px;
+  
 }
 
 .cls label {
-   margin-right: 50%;
+   margin-right: 60%;
 }
+
+.cls input {
+  font-size: 16px;
+}
+
 
 
 /* #login {
