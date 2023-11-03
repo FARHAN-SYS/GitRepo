@@ -8,7 +8,7 @@ loginButton.addEventListener("click", function (e) {
   const password = document.getElementById("password").value;
 
   if (username === "farhan" && password === "222") {
-    alert("Login successfull");
+    alert("Login successfull.....");
   } else {
     alert("Login failed");
   }
