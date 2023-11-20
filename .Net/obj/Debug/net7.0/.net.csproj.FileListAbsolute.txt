@@ -1,0 +1,14 @@
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\bin\Debug\net7.0\.net.exe
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\bin\Debug\net7.0\.net.deps.json
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\bin\Debug\net7.0\.net.runtimeconfig.json
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\bin\Debug\net7.0\.net.dll
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\bin\Debug\net7.0\.net.pdb
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.AssemblyInfoInputs.cache
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.AssemblyInfo.cs
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.csproj.CoreCompileInputs.cache
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.dll
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\refint\.net.dll
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.pdb
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\.net.genruntimeconfig.cache
+C:\Users\SHAH\WebDev\JSDev\GitDemo\gitrepo\.net\obj\Debug\net7.0\ref\.net.dll
